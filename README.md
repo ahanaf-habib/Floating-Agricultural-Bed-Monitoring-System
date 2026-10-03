@@ -111,7 +111,7 @@ This eliminates the need for a dedicated mobile application.
 
 The ESP32 acts as the central controller of the system.
 
-'
+```text
                  ┌─────────────────────┐
                  │       ESP32         │
                  │   Main Controller   │
